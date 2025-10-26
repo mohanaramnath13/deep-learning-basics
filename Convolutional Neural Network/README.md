@@ -1,5 +1,4 @@
 # Lab 4: CNN Classification  
-**Date:** 05/08/25  
 
 ## Objective  
 To implement and train a 1D Convolutional Neural Network (CNN) using PyTorch for a synthetic image classification task, and to study its performance, overfitting tendencies, and the effect of architectural components such as Batch Normalization.  
