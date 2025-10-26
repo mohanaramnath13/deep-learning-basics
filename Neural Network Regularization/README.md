@@ -87,16 +87,3 @@ The optimal choice of regularizer depends on the dataset characteristics and mod
 - **Framework:** PyTorch  
 - **Libraries:** NumPy, Matplotlib, Scikit-learn  
 
----
-
-## 10. Run the Project
-```bash
-# Clone the repository
-git clone <your-repo-link>
-cd neural_network_regularization
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Execute training
-python regularizer_comparison.py
