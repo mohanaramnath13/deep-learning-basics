@@ -40,6 +40,4 @@ Each experiment is organized in its own subfolder with a dedicated `README.md` e
 - Keras / TensorFlow  
 - torchvision  
 - NumPy, pandas, matplotlib  
-
-## Summary
-This repository provides a structured learning path through fundamental deep learning concepts, covering regression, optimization, regularization, CNNs, and RNNs. Each experiment emphasizes both theoretical understanding and practical implementation.
+ 
